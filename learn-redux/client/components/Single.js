@@ -4,7 +4,9 @@ class Single extends React.Component {
 
     render() {
         return (
-            <div>Single</div>
+            <div className="single-photo">
+                Single
+            </div>
         )
     }
 }
